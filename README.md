@@ -21,7 +21,7 @@ git clone https://github.com/technicaldada/pentbox
 
 cd pentMbo
 
-tar -zxvf pentMbo.tar.gz
+unzip pentMbo.zip
 
 cd pentMbo
 
