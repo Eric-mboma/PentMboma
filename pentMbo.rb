@@ -10,7 +10,7 @@
 
     This file is part of PenTMbo.
 
-    PenTBox is free software: you can redistribute it and/or modify
+    PenTMbo is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
@@ -61,7 +61,7 @@ $text_color = true
 dir = File.dirname(__FILE__)
 require dir + "/lib/pb_proced_lib.rb" # Common procedures and functions.
 
-version = "1.8"
+version = "1.0"
 Signal.trap("INT") do
 	puts ""
 	puts "[*] EXITING ..."
