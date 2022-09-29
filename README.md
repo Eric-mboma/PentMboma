@@ -31,7 +31,7 @@ cd pentMbo
 Journal des modifications PenTBox
 -----------------
 
-Version 1.8
+Version 1.0
 -----------
 Nouvelles fonctionnalités:
 - Exécution de commandes dans les get (STDIN) implémentées. (!commande)
