@@ -1,5 +1,5 @@
 # PentMboma
-<h1>PentBox</h1>
+<h1>PentMbo</h1>
 
 -----------------
 Tutoriel PenTMboma
